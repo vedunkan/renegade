@@ -1,0 +1,9 @@
+{
+	"ip":"seriousanarchy.aternos.me",
+	"port": 54927,
+	"name": "afkbot1",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (podamyre) (podamyre)",
+	"login-cmd":"/login (podamyre)"
+}
